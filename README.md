@@ -33,3 +33,7 @@ Intel AI SW 아카데미에서 한 달 동안 배운 내용을 바탕으로 세�
 
 ## Output
 ![](https://velog.velcdn.com/images/jimeaning/post/2cdabd00-6120-448c-ba38-1418364c3892/image.png)
+
+
+## 🎥 시현 영상
+[![](https://img.youtube.com/vi/mFI-uJ6T8-U/0.jpg)](https://youtu.be/mFI-uJ6T8-U?t=0s)
